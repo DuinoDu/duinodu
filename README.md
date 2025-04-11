@@ -11,3 +11,5 @@
   languages = ["python", "c++"]
   frameworks = ["PyTorch", "mcp" ,"OpenXR", "Vulkan"]
   ```
+
+I am also a big fan of `Contemporary Dance`[https://en.wikipedia.org/wiki/Contemporary_dance], it is a dance about body, control, expression and freedom.
