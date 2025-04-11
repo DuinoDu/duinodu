@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Duino(杜敏)
 
-<!--
-**DuinoDu/duinodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duinodu&show_icons=true&theme=radical)](https://github.com/duinodu)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 **Background**: AI, Robotics, XR(VR, MR, AR)
+- 📍 **Location**: Beijing, China
+- 💡 **Passion**: Build XR as an core toolkit for Robotics. Also interested in llm and agent.
+- 🤖 **Tech Stack**: 
+  ```python
+  languages = ["python", "c++"]
+  frameworks = ["PyTorch", "mcp" ,"OpenXR", "Vulkan"]
+  ```
