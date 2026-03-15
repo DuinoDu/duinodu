@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Duino(杜敏)
+# 👋 Hi, I'm Duino
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duinodu&show_icons=true&theme=radical)](https://github.com/duinodu)
 
